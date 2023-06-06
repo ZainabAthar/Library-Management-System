@@ -1,0 +1,131 @@
+1C
+250
+The Great Gatsby
+F. Scott Fitzgerald
+John Smith
+320
+To Kill a Mockingbird
+Harper Lee
+Jane Doe
+3D
+Pride and Prejudice
+Jane Austen
+Michael Johnson
+4C
+280
+George Orwell
+Sarah Thompson
+5C
+350
+The Catcher in the Rye
+Ali Siyal
+6E
+200
+Animal Farm
+George Orwell
+7E
+420
+Brave New World
+Aldous Huxley
+Emily Wilson
+180
+Fahrenheit 451
+Ray Bradbury
+David Brown
+9B
+The Hobbit
+J.R.R. Tolkien
+Samantha Miller
+10A
+260
+Christopher Green
+Henry 
+11B
+380
+To the Lighthouse
+Matilda J
+12C
+240
+Frankenstein
+Mary Shelley
+13B
+400
+The Odyssey
+Homer
+Michelle Lewis
+220
+Romeo and Juliet
+William Shakespeare
+Andrew Taylor
+15C
+The Adventures of Tom Sawyer
+Mark Twain
+Rebecca Harris
+16D
+280
+Thomas Turner
+Harris Dude
+17C
+300
+Hamlet
+Sydeny Dow
+18B
+320
+The Great Expectations
+Charles Dickens
+19A
+260
+Alice's Adventures in Wonderland
+Lewis Carroll
+Stephanie Adams
+400
+One Hundred Years of Solitude
+Gabriel Garcia Marquez
+Oliver Young
+21A
+The Picture of Dorian Gray
+Oscar Wilde
+Benjamin Moore
+22E
+360
+Laura Baker
+Ali Ansar
+23B
+300
+The Adventures of Huckleberry Finn
+Ahmed Ali
+24B
+220
+The Old Man and the Sea
+Ernest Hemingway
+25C
+380
+Don Quixote
+Miguel de Cervantes
+Christina Davis
+260
+War and Peace
+Leo Tolstoy
+Nicholas Johnson
+27D
+Moby-Dick
+Herman Melville
+Jonathan Clark
+28A
+250
+Diana Roberts
+Bilal Zia
+29A
+320
+The Count of Monte Cristo
+Stephen 
+30A
+280
+The Brothers Karamazov
+Fyodor Dostoevsky
+10
+336
+The Great Gatsby
+F. Scott Fitzgerald
+Lisa Moore
+77
