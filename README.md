@@ -1,4 +1,4 @@
-# Library Management System (LMS) - C++ OOP Project
+# Library Management System - C++ OOP Project
 
 ## Overview
 Welcome to the Library Management System (LMS) implemented in C++ using Object-Oriented Programming (OOP) concepts. This system allows efficient management of library resources, including issuing and returning books, managing students, and book information.
