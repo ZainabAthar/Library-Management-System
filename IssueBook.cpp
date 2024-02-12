@@ -10,11 +10,9 @@ void Issuebook::search()
 {system("COLOR 8F");
      cout << "                                                    LIBRARY MANAGEMENT SYSTEM" << endl;
     cout << endl;
-
     string bid, nop, bn, an, in;
     string searchId;
     int found = 0;
-
     cout << "BOOK ID TO BE SEARCHED: ";
     cin >> searchId;
 
