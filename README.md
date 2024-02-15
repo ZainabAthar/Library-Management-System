@@ -9,8 +9,7 @@ Welcome to the Library Management System (LMS) implemented in C++ using Object-O
 - **File Handling**: Data is stored in text files (e.g., .txt) to ensure persistent storage of information.
 
 ## Classes
-
-### 1. **IssueBook**
+### 1. **Issue Book**
    - **IssueBook.h**: Header file for the IssueBook class.
    - **IssueBook.cpp**: Implementation file for the IssueBook class.
    - Manages the issuance of books, tracking details such as issue date, due date, and associated book and student information.
